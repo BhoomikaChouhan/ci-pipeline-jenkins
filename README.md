@@ -12,13 +12,6 @@ This repository hosts the **Continuous Integration (CI) pipeline** configuration
 
 **Note:** As a DevOps Engineer, my primary focus in this project is setting up the **CI automation, AWS Infrastructure, and Code Quality Analysis**. The Java application source code serves as a sample to demonstrate the capabilities of this pipeline.
 
-## 🏗️ Architecture & Infrastructure
-
-The entire infrastructure for this pipeline is hosted on the **AWS Cloud** using **EC2 instances**.
-
-Architecture Diagram
-
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f4e487c7-907f-4df2-a8a9-1c0caf4be6bd" />
 
 ### Infrastructure Setup:
 * **Jenkins Server:** Hosted on a dedicated AWS EC2 instance (Master node).
